@@ -17,7 +17,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React ZIC
+          Learn React ZIc
         </a>
         <AmplifySignOut />
       </header>
