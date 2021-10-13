@@ -1,0 +1,20 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-amplify2e34de3549704-staging-53845-authRole",
+      "UnauthRoleArn": "arn:aws:iam::842811333022:role/amplify-amplify2e34de3549704-staging-53845-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::842811333022:role/amplify-amplify2e34de3549704-staging-53845-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-amplify2e34de3549704-staging-53845-deployment",
+      "UnauthRoleName": "amplify-amplify2e34de3549704-staging-53845-unauthRole",
+      "StackName": "amplify-amplify2e34de3549704-staging-53845",
+      "StackId": "arn:aws:cloudformation:us-east-1:842811333022:stack/amplify-amplify2e34de3549704-staging-53845/ab2eb160-2b1e-11ec-9932-0ae043511c03",
+      "AmplifyAppId": "d2jgqmbuc53mro"
+    },
+    "categories": {
+      "auth": {
+        "animecollector95a7a94b": {}
+      }
+    }
+  }
+}
